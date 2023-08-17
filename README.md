@@ -21,4 +21,6 @@ the total College Enrollment for each Community Area?
 the hardship index for the community area which has College Enrollment of 4368?
 the hardship index for the community area which has the highest value for College Enrollment
 
-NOTE: The IBM Db2 instance credential made available in this is solely meant to practice purposes, all API calls and database modifications using the keys are reversed in the database after 30mins
+NOTE: The IBM Db2 instance credential made available in this is solely meant to practice purposes, all API calls and database modifications using the keys are reversed in the database after 30mins.
+
+Notebooks: There are two notebooks in this repo, one is for the analysis with making API calls to IBM Db2 and the other SQLite3
